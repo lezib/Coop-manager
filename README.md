@@ -11,8 +11,9 @@ If you wonder where to start, here is a little road-map to begin your journey. T
 - Neovim: Add personnal keybinds
 - Zsh: Add personnal aliases
 - Zsh: Edit plugins
-- Nix: Add a new computer to your configuration
 - Neovim: Add plugins and keybinds with it
+- Nix: Add your own Nix packages searching [NixSearch](https://search.nixos.org/packages)
+- Nix: Add a new computer to your configuration
 
 ### Depedencies :
 
@@ -45,11 +46,11 @@ TODO
 ### Useful links :
 
 - [Nix Wiki](https://nixos.wiki/wiki) for general syntax or configuration.
-- [nixSearch](https://search.nixos.org/packages) for searching new packages.
+- [NixSearch](https://search.nixos.org/packages) for searching new packages.
 - [Home-manager docs](https://nix-community.github.io/home-manager/) documentations of home-manager.
 - [NixVim Community Page](https://nix-community.github.io/nixvim) for all about nixVim, a NeoVim configuration system.
 - [My own config](https://github.com/lezib/home-manager) to get some inspiration.
-- And [Google](google.com) or a good Ai (by my experience Geminy does a good job) because nix does not have ~~much~~ documentations. -_-
+- And [Google](google.com) and a good Ai (by my experience Geminy does a good job) because nix does not have ~~much~~ documentations. -_-
 
 ### Todo for Coop-manager :
 
