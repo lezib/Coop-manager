@@ -56,3 +56,8 @@ TODO
 
 - Add some documentation on the architecture of the repo.
 - Add some context on what is nix, home-manager, nixvim and their roles.
+
+#### Why "coop-manager" :
+
+- I like lil chicks like my pp
+- For "cooperative" :)
